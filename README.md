@@ -1,4 +1,4 @@
-# Real-Estate-GUI
+# EstateMate-GUI
 We made a real estate GUI using python language (Tkinter)
 We made 2 interfaces that are :-
 a>  The real estage agent’s office, to get 1) sales reports for each agent, consisting of the sale dates, property details
