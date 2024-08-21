@@ -13,4 +13,4 @@ There are total 3 folders
 
 2. Code --- contains the codes for the GUI using python language(tkitner)
 
-3. Image folder contains visual that are used in the project
+3. Image folder contains visual that are used in the project.
